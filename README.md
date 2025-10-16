@@ -197,8 +197,3 @@ Este projeto está sob a licença MIT. Veja o arquivo `LICENSE` para mais detalh
 - [Estruturas de Dados em Java](https://www.geeksforgeeks.org/data-structures/)
 - [Linked Lists](https://www.geeksforgeeks.org/data-structures/linked-list/)
 
----
-
-⭐ Se este projeto foi útil para você, considere dar uma estrela!
-
-**Desenvolvido com ❤️ para aprendizado de estruturas de dados**
